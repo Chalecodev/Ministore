@@ -58,10 +58,5 @@ git commit -m "feat: añadir nueva funcionalidad de autenticación"
 
 ---
 
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo `LICENSE`.
-
----
-
 💡 *Aprendamos juntos y construyamos algo increíble!* 🚀
 
