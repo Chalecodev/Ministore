@@ -1,2 +1,2 @@
-# Ministore, proyecto para aprender Angular + API REST (.NET y JAVA)
+# Ministore, proyecto para aprender Angular + API REST (.NET, Django, JAVA)
 
