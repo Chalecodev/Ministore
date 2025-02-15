@@ -5,7 +5,11 @@
   "projects": {
     "Ministore": {
       "projectType": "application",
-      "schematics": {},
+      "schematics": {
+        "@schematics/angular:component": {
+          "path": "src/components"
+        }
+      },
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
