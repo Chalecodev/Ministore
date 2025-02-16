@@ -41,7 +41,7 @@ ng generate component user
 
 ---
 
-## 📌 Convenciones para commits
+## 📌 Convenciones para commits y para ramas
 Para mantener un historial de cambios claro y ordenado, seguimos estas convenciones en los mensajes de commit:
 
 - `feat`: Agrega una nueva funcionalidad al proyecto.
